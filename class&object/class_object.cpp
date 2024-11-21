@@ -25,6 +25,6 @@ int main()
     cin >> b.roll >> b.gpa;
     cout << a.name << " " << a.roll << " " << a.gpa << endl;
     cout << b.name << " " << b.roll << " " << b.gpa << endl;
-
+    cout << "git branch issue solved";
     return 0;
 }
